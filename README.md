@@ -5,7 +5,7 @@ This is a take home project for software engineering positions. Please finish wi
 Use this following answer from a stackoverflow question (Draw on HTML5 Canvas using a mouse):
 https://stackoverflow.com/a/8398189/5875244
 
-We will build a whiteboard drawing app based on this answer. There are different tasks for frontend focus and backend focus.
+We will build a whiteboard drawing app based on this answer. There are different tasks for frontend focus and backend focus. Basic requirement is required for everyone. You may choose to do either Frontend requirement or Backend requirement.
 
 ## Requirement
 
